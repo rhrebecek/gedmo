@@ -1,5 +1,5 @@
 {
-	"name": "rixxi/gedmo",
+	"name": "rhrebecek/gedmo",
 	"license": ["BSD-3-Clause", "GPL-2.0", "GPL-3.0"],
 	"description": "Gedmo Doctrine Extensions integration into Nette Framework using Kdyby/Doctrine",
 	"authors": [
@@ -14,8 +14,8 @@
 	},
 	"require": {
 		"nette/nette": "~2.1",
-		"kdyby/events": "~2.1",
-		"kdyby/doctrine": "~2.0|~1.0",
+		"kdyby/events": "~2.5",
+		"kdyby/doctrine": "~3.0|~2.0|~1.0",
 		"gedmo/doctrine-extensions": "~2.2"
 	},
 	"autoload": {
